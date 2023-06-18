@@ -1,5 +1,7 @@
 # Heavy-Path-Decomposition
 
+Heavy-light decomposition is a fairly general technique that allows us to effectively solve many problems that come down to queries on a tree .
+
 ## References:
 
 https://www.geeksforgeeks.org/introduction-to-heavy-light-decomposition/
